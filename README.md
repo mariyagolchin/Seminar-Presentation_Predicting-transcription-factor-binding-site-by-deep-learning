@@ -1,8 +1,10 @@
+# My Seminar Presentation
 
-My Seminar Presentation in title of "Predicting transcription factor binding site by deep learning"
+**Title:** "Predicting Transcription Factor Binding Sites by Deep Learning"
 
-<h2>Presentations</h2>
-<ul>
-	<li><b>Seminar Presentation: Predicting transcription factor binding site by deep learning</b></li>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/GG5MqM1P8ss?si=Gblv5gQ4tvn_lhDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</ul>
+## Presentations
+
+- **Seminar Presentation:** [Predicting Transcription Factor Binding Sites by Deep Learning](https://www.youtube.com/embed/GG5MqM1P8ss?si=Gblv5gQ4tvn_lhDY)
+  
+  [![Watch the Presentation](https://img.shields.io/badge/Watch%20Presentation-YouTube-red)](https://www.youtube.com/embed/GG5MqM1P8ss?si=Gblv5gQ4tvn_lhDY)
+
